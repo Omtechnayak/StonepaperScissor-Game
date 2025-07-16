@@ -21,9 +21,9 @@ A simple and interactive **Stone-Paper-Scissors** game built using **HTML**, **C
 ## 🚀 Live Demo
 👉 [Play the Game Here](https://github.com/Omtechnayak/StonepaperScissor-Game.git)
 
-*(Update the link above with your GitHub Pages URL if hosted)*
+
 
 ## 🛠️ How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Omtechnayak/StonepaperScissor-Game.git
