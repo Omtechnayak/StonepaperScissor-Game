@@ -1,0 +1,73 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+body{
+background-color: rgb(7, 0, 15);
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+    height: 5rem;
+    width: 600px;
+    background-color: #92a2db;
+    border: 2px solid white;
+    margin-left: 29rem;
+    margin-top: 2rem;
+    border-radius:10px;
+
+}
+h1{
+    margin-top: 1rem;
+}
+.choices{
+    display: flex;
+    margin-top: 6rem;
+    margin-left: 0rem;
+    justify-content: space-evenly;
+}
+img:hover{
+    opacity: 0.5;
+}
+img{
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    
+}
+.score-bord{
+    display: flex;
+    justify-content: center;
+    gap:7rem;
+    color: aliceblue;
+    margin-top: 5%;
+    margin-left: 0%; 
+    
+}
+#user-score,#comp-score{
+    font-size: 50px;
+}
+.you,.comp{
+    font-size: 30px;
+}
+
+.msg{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 50px;
+    width: 25%;
+    background-color: rgb(61, 1, 66);
+    border: 2px solid white;
+    border-radius: 20px;
+    color: white;
+    margin-left: 38%;
+    margin-top: 5%;
+}
+#touch{
+    font-size: 30px;
+    margin-top: 6px;
+}
+
